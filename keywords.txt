@@ -1,0 +1,7 @@
+DAC8512	KEYWORD1
+toggleLD	KEYWORD2
+setValue	KEYWORD2
+convert	KEYWORD2
+setupDAC	KEYWORD2
+selectChip	KEYWORD2
+deselectChip KEYWORD2

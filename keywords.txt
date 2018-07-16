@@ -4,4 +4,4 @@ setValue	KEYWORD2
 convert	KEYWORD2
 setupDAC	KEYWORD2
 selectChip	KEYWORD2
-deselectChip KEYWORD2
+deselectChip	KEYWORD2
